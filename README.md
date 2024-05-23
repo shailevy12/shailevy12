@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shai Levy</h1>
-<h3 align="center">Third year Computer Science student.</h3>
+<h3 align="center">Looking for a full time position as Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailevy12&label=Profile%20views&color=0e75b6&style=flat" alt="shailevy12" /> </p>
 
-- 🌱 I’m currently learning **at the Hebrew University of Jerusalem, Israel.**
+- 🌱 I’ve just completed my B.sc in Computer Science **at the Hebrew University of Jerusalem, Israel.**
 
 - 📫 How to reach me **shaki4400@gmail.com**
 
